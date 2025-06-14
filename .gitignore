@@ -195,3 +195,14 @@ cython_debug/
 
 data/MachineLearningRating_v3.txt
 data/df_cleaned.csv
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore common backup files
+*~
+*.bak
+*.swp
+.#*
+*.tmp
+
